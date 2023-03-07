@@ -1,3 +1,5 @@
 # Machine learning Repository
 
-Ths repository will save some machine learning projects, some of them are easier some are more difficult most of them are done within my Masters University.
+This repository will save machine learning projects:
+  1. Health Project 
+     Estimation of patient having Diabetes of not-> Classification problem using Random Forest and SVM methods.
